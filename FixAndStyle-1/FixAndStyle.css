@@ -1,0 +1,60 @@
+h1 {
+    color:aliceblue;
+    background-color:lightskyblue
+    
+}
+
+
+#one {
+    background-color:lightskyblue
+}
+
+a {
+    color:green;
+    text-decoration: none;
+    
+}
+
+a:hover {
+    color:red;
+    text-decoration: underline;
+    
+}
+
+h2 {
+    color:blue
+}
+
+h3 {
+    background-color:yellow
+}
+
+.two {
+    color:darkgoldenrod
+}
+
+.three {
+    color:red
+}
+
+h4 {
+    color:yellow;
+    background-color:green
+
+}
+
+.four {
+    background-color:lightgreen
+}
+
+#five {
+    background-color:yellow
+}
+
+h5 {
+    color:red
+}
+
+.six {
+    color:blue
+}
