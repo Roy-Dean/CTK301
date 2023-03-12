@@ -1,0 +1,119 @@
+
+
+.newtext {
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+body{
+    background-color: #eeeeee;
+    background-image: url(mqdefault.jpg);
+}
+
+h1 {
+    color:orange;
+    background-color: grey;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+    font-weight: normal;
+    
+}
+
+#red{
+    color:crimson;
+    background-color:black
+    
+}
+
+.two {
+    color:mediumturquoise;
+    background-color:antiquewhite
+}
+
+.three {
+    color:dodgerblue;
+    background-color: azure
+}
+
+.four {
+    color:blueviolet;
+    background-color:blanchedalmond
+}
+
+a {
+    color:red;
+    text-decoration: none;
+    
+}
+
+a:visited {
+    color:green
+}
+
+a:hover {
+    color:yellow
+}
+
+#five {
+    background-color: aquamarine;
+}
+
+h3 {
+    color:orange;
+    background-color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+    font-weight: normal;
+}
+
+h4{
+    color:orange;
+    background-color: aliceblue;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+    font-weight: normal;
+}
+
+.six {
+    color:firebrick;
+    
+}
+
+
+#blue{
+    text-decoration-color: blue;
+    text-align: justify;
+ }
+
+p {
+    color:maroon;
+    background-color: aqua;
+}
+
+h2 {
+    color:orange;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+    font-weight: normal;
+    
+}
+
+.seven {
+    color:indigo
+}
+
+#wrapper {
+    margin: 1em auto;
+    padding: 0;
+    width: 960px;
+    border: 1px solid #ff0000;
+    background-color: #ffffff;
+    text-align: center;
+  }
+
+  .imgbox {
+    border: 35px solid black;
+    padding: 10px 10px 10px 10px;
+    margin: 20px 20px 20px 20px;
+    background-color: yellow;
+}
