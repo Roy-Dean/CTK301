@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "CTK301-main",
+			"path": ".."
+		},
+		{
+			"name": "WorkshopA",
+			"path": "../../WorkshopA"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "CTK301-main"
+	}
+}
